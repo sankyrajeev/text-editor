@@ -15,5 +15,5 @@ When the user accesses the web application. The user is able to use the text edi
 
 ## link to deployed app
 
- https://note-taker-237.herokuapp.com/
+https://text-editor-index.herokuapp.com/
 
